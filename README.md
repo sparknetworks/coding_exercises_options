@@ -3,8 +3,6 @@
 
 #### The Coding Exercise Options
 
-Please submit *only one* of our four coding exercises in order for us to assess your abilities.
-
 You can choose from:
 
 * [Editable Profile](./editable_profile/README.md)
